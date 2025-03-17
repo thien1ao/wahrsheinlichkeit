@@ -1,6 +1,4 @@
-from scipy import stats
 import numpy as np
-import matplotlib as plt
 import random
 
 N = 1000
